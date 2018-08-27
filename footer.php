@@ -4,7 +4,7 @@
  *
  * Contains the closing of the #content div and all content after
  *
- * @package understrap
+ * @saskia pouw
  */
 
 $the_theme = wp_get_theme();
