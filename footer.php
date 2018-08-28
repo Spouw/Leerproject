@@ -4,7 +4,7 @@
  *
  * Contains the closing of the #content div and all content after
  *
- * @saskia pouw
+ * @saskia pouw hier staat de veranderingggit
  */
 
 $the_theme = wp_get_theme();
